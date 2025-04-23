@@ -1,6 +1,4 @@
-# faculdade-algoritimos1
-Repositorio com as listas de exercicios e atividades da materia Algoritimos 1 do Curso de Engenharia de Computação
-#Lista 02 
+# Lista 02
 - 1- Crie um algoritmo que identifica se o valor dado é um triângulo se for o algoritmo deve mostra se ele é equilátero, isósceles ou escaleno usando print, scanf, if e else
 
 - 2- crie um algoritmo que identifique se a altura do usuário é maior ou menor da altura media nacional
