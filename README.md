@@ -18,4 +18,4 @@
 15. Receber 2 inteiros, 1 real e 3 caracteres.  
 16. Criar 6 algoritmos novos com base nos exemplos anteriores.
 
-### Todos os arquivos estão dentro do arquivo lista01.c
+### Todos os arquivos estão dentro do arquivo lista_01.c
