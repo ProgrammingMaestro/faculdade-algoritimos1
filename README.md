@@ -19,3 +19,6 @@
 16. Criar 6 algoritmos novos com base nos exemplos anteriores.
 
 ### Todos os arquivos estão dentro do arquivo lista_01.c
+Ao compilar e executar o codigo todos os algoritimos serão executados na sequencia 1 ao 21
+Todos os algoritimos ja possuem os dados necessarios para executarem e não necessitarão de
+input do usuario.
