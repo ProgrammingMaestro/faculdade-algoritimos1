@@ -1,3 +1,12 @@
+/*
+Esse algoritimo pede para o usuario digitar cinco numeros inteiros para colocar em um array atraves de um laço de repetição.
+Depois utiliza um algoritimo de ordenação por inserção[*] para ordenar os valores desse array e depois usa um outro laço de repetição
+para imprimir os valores desse array porém ordenados
+
+[*] O algoritimo de Insertion Sort foi explicado para mim assim, Tendo cartas de baralho na mão eu vou checar nesse caso da esquerda para a
+direita, o segundo elemento que é o que estou checando agora (i). e checo o elemento anterior (j), e se ele for maior que o meu elemento atual
+eu troco eles de lugar, e assim vai para todos os elementos do array até chegar no final.
+*/
 #include <stdio.h>
 int main() {
 	int nums[5], i, j, temp;

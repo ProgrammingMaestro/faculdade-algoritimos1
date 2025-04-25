@@ -1,3 +1,6 @@
+/*
+Esse algoritimo pede um numero real para o usuario e ao imprimir de volta para o mesmo o algoritimo faz um cast para o tipo int e fala que é o numero inteiro.
+*/
 #include <stdio.h>
 int main() {
     float a;

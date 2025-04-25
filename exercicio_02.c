@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede dois valores para o usuario, uma altura e um genero e checa se essa altura
+esta abaixo ou acima do valor de media para cada genero usando condições logicas com if else
+*/
 #include <stdio.h>
 int main() {
 	float altura;

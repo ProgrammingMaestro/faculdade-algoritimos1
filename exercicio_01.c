@@ -1,3 +1,10 @@
+/*
+Esse algoritomo primeiro pede ao usuario para inserir o valor de três lados de um triangulo.
+Após isso ele verifica se esses valores formam algum triangulo usando a condição de existencia 
+para triangulos. Então, ele checa se todos os lados são iguais para verificar se é um triangulo equilatero
+depois checa se dois lados são iguais porém o terceiro lado diferente para a existencia do triangulo isoceles
+Por fim, se todos os lados desse triangulo forem diferentes ele é um Triangulo Escaleno.
+*/
 #include <stdio.h>
 #include <math.h>
 int main()

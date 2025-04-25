@@ -1,3 +1,6 @@
+/*
+Esse algoritimo simplesmente pede um numero real para o usuario e imprime esse numero devolta para ele
+*/
 #include <stdio.h>
 int main() {
     float valor;

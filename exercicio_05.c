@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede por tres valores chamados de a, b e c. Com esses valores ele vai calcular a formula de bhaskara, utilizando a formula de bhaskara.
+O programa Então imprime para o usuario a/as raiz/es encontradas.
+*/
 #include <stdio.h>
 #include <math.h>
 int main() {
@@ -9,7 +13,7 @@ int main() {
 		printf("Raizes nao reais\n");
 	} else if (delta == 0) {
 		x1 =  (-b + sqrt(delta))/(2 * a);
-		printf("Unica Raiz: %f\n", x1);
+		printf("Unica Raiz: %f Delta: 0\n", x1);
 	} else {
 		x1 = (-b + sqrt(delta))/(2 * a);
 		x2 = (-b - sqrt(delta))/(2 * a);

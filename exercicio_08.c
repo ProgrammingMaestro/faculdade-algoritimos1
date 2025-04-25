@@ -1,3 +1,6 @@
+/*
+Esse algoritimo pede pelo nome, genero, idade e altura do usuario depois imprime os dados que o usuario digitou.
+*/
 #include <stdio.h>
 int main() {
 	char nome[50], genero[50];

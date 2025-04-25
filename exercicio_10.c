@@ -1,3 +1,9 @@
+/*
+Esse algoritimo inicialmente imprime um cardapio com algumas opções de pratos executivos (poderia ser qualquer comida eu escolhi pratos executivos)
+Então ele pede ao usuario para escolher alguma das 5 opções, ele verifica se o numero que o usuario está nos limites de 1 até 5 e se estiver entra num 
+switch case que vai falar uma mensagem agradecendo o usuario e depois o programa acaba. Porém caso o input do usuario não estiver entre 1 e 5 ele imprime
+um aviso e depois chama a função main() novamente para "reiniciar" o programa.
+*/
 #include <stdio.h>
 int main() {
 	int escolha = 0;

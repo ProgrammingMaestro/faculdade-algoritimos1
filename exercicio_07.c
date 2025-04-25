@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede por dois pares de numeros inteiros, depois faz a soma de cada um dos pares, checa para ver se a soma do segundo par é diferente de zero, pois,
+não é possivel dividir por zero, então, se a soma2 for diferente de 0 o algoritimo imprime o resultado da divisão entre a soma1 e soma2.
+*/
 #include <stdio.h>
 int main() {
 	int a, b, c, d;

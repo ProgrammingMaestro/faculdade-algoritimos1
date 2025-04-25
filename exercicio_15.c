@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede para o usuario três números inteiros, depois ele soma esses numeros,
+e imprime o valor da soma deles e, também, o valor da média deles.
+*/
 #include <stdio.h>
 int main() {
     int a, b, c;

@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede por um comprimento, uma largura e uma altura, as três dimensões de um objeto no espaço 3D. 
+Depois ele apenas imprime esses dados de volta para o usuario.
+*/
 #include <stdio.h>
 int main() {
     float comprimento, largura, altura;

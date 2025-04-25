@@ -1,3 +1,9 @@
+/*
+Esse algoritimo pede que o usuario digite a letra 'o' ou a letra 'e'.
+Se o usuario digitar uma dessas letras o algoritimo imprime a outra letra que 
+o usuario não digitou. Caso ele não tenha digitado nem a letra 'o' e nem a letra 'e'.
+O algoritimo imprime que foi isso que aconteceu e o programa acaba.
+*/
 #include <stdio.h>
 int main() {
 	char letra;

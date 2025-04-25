@@ -1,3 +1,7 @@
+/*
+Esse algoritimo pede pela data de nascimento do usuario (em anos) depois calcula aproximadamente a idade em meses
+dessa pessoa ao multiplicar a quantidade de anos por 12 (quantidade de meses em um ano).
+*/
 #include <stdio.h>
 int main() {
 	int anoNascimento, idadeAnos, idadeMeses;

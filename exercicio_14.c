@@ -1,3 +1,6 @@
+/*
+Esse é um algoritimo estatico que simplesmente define dois numeros reais, e cinco characteres. Depois ele imprime esses dados.
+*/
 #include <stdio.h>
 int main() {
     float valor1 = 3.14, valor2 = 7.25;
